@@ -1,0 +1,42 @@
+body{
+ background-image: url("../img/escheresque_ste.png");
+ font-family: Verdana;
+}
+.kino-menu{
+ background-color: blue;
+ margin-top: 100px;
+ width: 100%;
+}
+
+li.kino-li a{
+ text-decoration: none;
+ font-size: 18px;
+ color: #000;
+ position: relative;
+ padding: 5px;
+}
+li.kino-li a i{
+ margin-right: 10px;
+}
+.fig{text-align: center;}
+
+
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
